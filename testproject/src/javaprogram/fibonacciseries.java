@@ -1,4 +1,4 @@
-package testproject;
+package javaprogram;
 
 public class fibonacciseries {
 
