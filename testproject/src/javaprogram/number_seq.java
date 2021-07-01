@@ -18,6 +18,7 @@ public class number_seq {
 			}
 			else
 				System.out.println(i);
+			//print number sequence
 
 	}
 
